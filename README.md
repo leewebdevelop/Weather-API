@@ -6,7 +6,7 @@ Using an API(Application Programming Interface ) to reuqest an remote data set r
 Displays a map of the globe. Users can selct the day they want the weather forecast for using the buttons (recognition) at the top of the screen. Selected buttons changes colour this is the current system status. Buttons are signified by the arrow changing to the hand when hoovering over button. Users can then press anyhwere on the map. Small blue window (same blue as selcted button) will bne presented with the weather of the place selected on that day in a minimal and concise format. This window an be closed (possible error recovery) by pressing X (consistency & standards) on the top right corner. Thet can proceed to select another country 
 
 
-# Refernces and Useful resourcesful for anyones use 
+# References and Useful resourcesful for anyones use 
 
 Fry 2004, https://benfry.com/phd/dissertation/
 
